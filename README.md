@@ -28,7 +28,7 @@ The assignment also requires that only the measurements on the mean and standard
 
 ##  Data Source
 
-###This assignment uses a subset of data from the Human Activity Recognition Using Smartphones Dataset, Version 1.0 by:
+### This assignment uses a subset of data from the Human Activity Recognition Using Smartphones Dataset, Version 1.0 by:
 
 ---
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
@@ -62,7 +62,7 @@ For each record it is provided:
 
 ---
 
-###The data used for the project is here:  
+### The data used for the project is here:  
 [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).  
 
 The files are split between test data, training data and two meta files as explained below.
@@ -86,7 +86,7 @@ Included in the github repository are the following files:
 
 To read the tidydata.txt into R, use the following script with the file in your working directory.
 
-		 read.table("tidydata.txt", header = TRUE, sep = ""
+		 read.table("tidydata.txt", header = TRUE, sep = "")
 
 If you've read all the way to the bottom of this, thank you.
 

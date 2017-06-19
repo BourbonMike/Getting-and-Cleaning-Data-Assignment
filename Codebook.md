@@ -1,4 +1,4 @@
-#Feature Selection - Updated
+# Feature Selection - Updated
 
 ----------
 
@@ -60,7 +60,7 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 
 
 
-#The complete list of variables in the final tidy data set is below:
+# The complete list of variables in the final tidy data set is below:
 ### Note that the mean and standard deviation features are normalized and bounded within [-1,1].
 
 - subject			An ID number (1 30) assigned to each of the 30 participants in the study
